@@ -1,0 +1,14 @@
+# Target labels
+ kaldifeat-populate
+# Source files and their labels
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/kaldifeat-populate
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/kaldifeat-populate.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/kaldifeat-populate-complete.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-build.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-configure.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-download.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-install.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-mkdir.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-patch.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-test.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-update.rule

@@ -1,0 +1,10 @@
+torch==1.13.1
+graphviz
+
+[:python_version < "3.8"]
+typing_extensions
+
+[dev]
+clang-format==9.0.0
+flake8==3.8.3
+yapf==0.27.0

@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/moderngpu/moderngpu/archive/8ec9ac0de8672de7217d014917eedec5317f75f3.zip;https://huggingface.co/csukuangfj/k2-cmake-deps/resolve/main/moderngpu-8ec9ac0de8672de7217d014917eedec5317f75f3.zip'
+tag='SHA256=1c20ffbb81d6f7bbe6107aaa5ee6d37392677c8a5fc7894935149c3ef0a3c2fb'

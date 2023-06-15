@@ -1,0 +1,3 @@
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/kaldifeat-populate.dir
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/edit_cache.dir
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/rebuild_cache.dir

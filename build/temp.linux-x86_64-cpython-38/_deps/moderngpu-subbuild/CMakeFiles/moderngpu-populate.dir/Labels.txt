@@ -1,0 +1,14 @@
+# Target labels
+ moderngpu-populate
+# Source files and their labels
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/CMakeFiles/moderngpu-populate
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/CMakeFiles/moderngpu-populate.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/CMakeFiles/moderngpu-populate-complete.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-build.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-configure.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-download.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-install.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-mkdir.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-patch.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-test.rule
+/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-update.rule

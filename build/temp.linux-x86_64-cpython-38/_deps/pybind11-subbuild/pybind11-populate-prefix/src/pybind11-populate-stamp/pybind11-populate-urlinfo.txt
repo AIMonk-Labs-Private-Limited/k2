@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/pybind/pybind11/archive/5bc0943ed96836f46489f53961f6c438d2935357.zip;https://huggingface.co/csukuangfj/k2-cmake-deps/resolve/main/pybind11-5bc0943ed96836f46489f53961f6c438d2935357.zip'
+tag='SHA256=ff65a1a8c9e6ceec11e7ed9d296f2e22a63e9ff0c4264b3af29c72b4f18f25a0'

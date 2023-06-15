@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/CMakeFiles/moderngpu-populate"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/CMakeFiles/moderngpu-populate.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/CMakeFiles/moderngpu-populate-complete.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-build.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-configure.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-download.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-install.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-mkdir.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-patch.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-test.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/moderngpu-subbuild/moderngpu-populate-prefix/src/moderngpu-populate-stamp/moderngpu-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"moderngpu-populate"
+		],
+		"name" : "moderngpu-populate"
+	}
+}

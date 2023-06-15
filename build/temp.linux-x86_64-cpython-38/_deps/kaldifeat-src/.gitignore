@@ -1,0 +1,8 @@
+build/
+build*/
+*.egg-info*/
+dist/
+__pycache__/
+test-1hour.wav
+path.sh
+torch_version.py

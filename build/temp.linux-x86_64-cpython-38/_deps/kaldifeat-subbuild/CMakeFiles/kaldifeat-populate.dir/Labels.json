@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/kaldifeat-populate"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/kaldifeat-populate.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/CMakeFiles/kaldifeat-populate-complete.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-build.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-configure.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-download.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-install.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-mkdir.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-patch.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-test.rule"
+		},
+		{
+			"file" : "/bv4/Triton_server/K2_build/k2/build/temp.linux-x86_64-cpython-38/_deps/kaldifeat-subbuild/kaldifeat-populate-prefix/src/kaldifeat-populate-stamp/kaldifeat-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kaldifeat-populate"
+		],
+		"name" : "kaldifeat-populate"
+	}
+}

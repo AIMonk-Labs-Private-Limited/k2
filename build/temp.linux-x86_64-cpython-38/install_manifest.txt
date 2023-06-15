@@ -1,0 +1,10 @@
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/share/cmake/k2/k2ConfigVersion.cmake
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/share/cmake/k2/k2Config.cmake
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/./torch_version.py
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/lib/libk2_log.so
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/lib/libk2context.so
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/lib/libk2fsa.so
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/../_k2.cpython-38-x86_64-linux-gnu.so
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/lib/libk2_torch_api.so
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/lib/libk2_torch.so
+/bv4/Triton_server/K2_build/k2/build/lib.linux-x86_64-cpython-38/k2/include/k2/torch_api.h

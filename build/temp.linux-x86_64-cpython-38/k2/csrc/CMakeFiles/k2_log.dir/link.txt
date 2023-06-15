@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,libk2_log.so -o ../../lib/libk2_log.so CMakeFiles/k2_log.dir/log.cu.o  -Wl,-rpath,"\$ORIGIN:" -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/opt/conda/lib/stubs" -L"/opt/conda/lib"
